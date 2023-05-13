@@ -2,9 +2,10 @@
 
 ---
 title: "Machine Learning for Email Spam Classification: Preprocessing Techniques and Model Comparison"
+
 author: "Sungjin Choi, WonJae Lee, Justin Huang"
+
 date: "2023-03-23"
-output: pdf_document
 ---
 Introduction: The prevalence of spam email has become a significant social problem in modern times. It not only wastes valuable time and resources but also poses a risk to users' security and privacy. Machine learning models can be powerful tools in identifying and filtering out spam emails automatically, saving users time and effort. This project uses a dataset of 4601 emails and their associated features to develop and compare different machine learning algorithms for email spam classification. The dataset is preprocessed using standardization, feature transformation, and discretization techniques, and then different machine learning models such as logistic regression, linear and quadratic discriminant analysis, support vector machines, and tree-based classifiers are applied to the data. The performance of each model is evaluated using classification errors on both training and test sets, and the results are compared to select the most effective model for email spam classification. By reducing the amount of spam emails that people receive, this project can help improve the online experience and productivity of users, making the internet a safer and more enjoyable place for all.
 
